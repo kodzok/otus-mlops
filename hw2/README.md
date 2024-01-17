@@ -1,1 +1,2 @@
-![Содержимое HDFS-директории](images/data.png)
+### Содержимое HDFS-директории
+![](images/data.png)
